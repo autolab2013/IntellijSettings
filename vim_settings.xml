@@ -203,20 +203,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>B</entry>
-        <entry>H</entry>
-        <entry>print</entry>
-        <entry>append</entry>
-        <entry>index</entry>
-        <entry>extend</entry>
-      </history-search>
-      <history-cmd>
-        <entry>%s/extend/entry/gc</entry>
-        <entry>w</entry>
-        <entry>wq</entry>
-        <entry>q</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
