@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
         <mark key="[" line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/com/tutorialspoint/HelloWorld.java" timestamp="1447014087543">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="13" column="15" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+      </file>
       <file name="/Python Console" timestamp="1446703035458">
         <mark key="[" line="0" column="0" />
       </file>
@@ -24,6 +30,15 @@
       </file>
       <file name="/a.dummy" timestamp="1446733788039">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/Bean.xml" timestamp="1447013396674">
+        <mark key="[" line="3" column="133" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/com/tutorialspoint/MainApp.java" timestamp="1447014109781">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="11" column="84" />
+        <mark key="^" line="11" column="84" />
+        <mark key="." line="11" column="84" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" timestamp="1446734601616">
         <mark key="'" line="36" column="7" />
@@ -44,6 +59,11 @@
         <mark key="]" line="86" column="35" />
         <mark key="^" line="84" column="29" />
         <mark key="." line="86" column="35" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/HelloWorld.java" timestamp="1447012719385">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/wordCnt.py" timestamp="1446690124688">
         <mark key="'" line="4" column="14" />
@@ -90,6 +110,12 @@
         <mark key="]" line="149" column="38" />
         <mark key="." line="149" column="38" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/Beans.xml" timestamp="1447014267182">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="6" column="24" />
+        <mark key="^" line="6" column="24" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/README.md" timestamp="1446735081410">
         <mark key="[" line="7" column="114" />
         <mark key="]" line="8" column="67" />
@@ -98,6 +124,11 @@
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/MainApp.java" timestamp="1447012866899">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -150,44 +181,44 @@
       <jump line="36" column="7" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
       </register>
       <register name="0" type="4">
-        <text>/usr/bin/time --format %U /opt/alttools/bin/python decompress.py</text>
+        <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>message</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20udHV0b3JpYWxzcG9pbnQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
+        <text encoding="base64">cGFja2FnZSBjb20udHV0b3JpYWxzcG9pbnQ7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>index</text>
+        <text />
       </register>
-      <register name="5" type="4">
-        <text>1</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>-</text>
+      <register name="6" type="2">
+        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyB0ZXN0X2ZpbGUgPSAndGVzdC50eHQnCg==</text>
+        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PHdvcmQsIGluZGV4PiA=</text>
+        <text>index</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PA==</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
