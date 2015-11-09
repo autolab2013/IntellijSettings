@@ -9,7 +9,13 @@
         <mark key="^" line="11" column="4" />
         <mark key="." line="11" column="4" />
       </file>
-      <file name="/a.dummy" timestamp="1446733788039">
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/database/Catagory.java" timestamp="1447105880910">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1447105888886">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookDTO.java" timestamp="1447088657302">
@@ -41,6 +47,12 @@
         <mark key="]" line="14" column="3" />
         <mark key="^" line="14" column="3" />
         <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/database/Book.java" timestamp="1447105783574">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="44" column="0" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="/Dummy.css" timestamp="1446512191031">
         <mark key="[" line="0" column="0" />
@@ -146,6 +158,12 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="0" column="32" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/database/BookCatagory.java" timestamp="1447105818629">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/BookSystem/src/com/dz275/Category.java" timestamp="1447082477268">
         <mark key="[" line="5" column="23" />
       </file>
@@ -178,13 +196,6 @@
         <mark key="]" line="19" column="42" />
         <mark key="." line="19" column="42" />
         <mark key="^" line="21" column="19" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/ExceptionHandle/src/com/tutorialspoint/StudentController.java" timestamp="1447097231148">
-        <mark key="'" line="24" column="33" />
-        <mark key="[" line="7" column="32" />
-        <mark key="]" line="16" column="24" />
-        <mark key="^" line="16" column="24" />
-        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/com/tutorialspoint/MainApp.java" timestamp="1447014109781">
         <mark key="[" line="16" column="12" />
@@ -343,8 +354,8 @@
       <jump line="24" column="33" filename="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/ExceptionHandle/src/com/tutorialspoint/StudentController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
@@ -355,32 +366,32 @@
       <register name="0" type="4">
         <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
-      <register name="1" type="4">
-        <text>message</text>
+      <register name="1" type="2">
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="2" type="4">
-        <text>dataSource</text>
+      <register name="2" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIEJvb2sgewo=</text>
       </register>
       <register name="3" type="4">
-        <text>private</text>
+        <text>message</text>
       </register>
       <register name="4" type="4">
-        <text>impl</text>
+        <text>dataSource</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>private</text>
       </register>
       <register name="6" type="4">
-        <text>dao</text>
+        <text>impl</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGNsYXNzIA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>elloWeb</text>
+        <text>dao</text>
       </register>
       <register name="9" type="4">
-        <text>H</text>
+        <text encoding="base64">bGNsYXNzIA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
