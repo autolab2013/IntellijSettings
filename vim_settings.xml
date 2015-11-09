@@ -35,6 +35,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookRepository.java" timestamp="1447084819168">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/README.md" timestamp="1446518837655">
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="42" />
@@ -104,8 +109,8 @@
         <mark key="." line="6" column="24" />
         <mark key="^" line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/Category.java" timestamp="1447082853131">
-        <mark key="[" line="15" column="16" />
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/Category.java" timestamp="1447084366230">
+        <mark key="[" line="5" column="23" />
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
@@ -231,10 +236,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuLlJlcG9zaXRvcnk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>.;</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -243,31 +248,31 @@
         <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuLlJlcG9zaXRvcnk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBDYXRlZ29yeSgpIHt9Cg==</text>
+      <register name="2" type="4">
+        <text>.;</text>
       </register>
       <register name="3" type="4">
-        <text>message</text>
+        <text>Repository</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20udHV0b3JpYWxzcG9pbnQ7Cg==</text>
+      <register name="4" type="4">
+        <text>stereotype</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20udHV0b3JpYWxzcG9pbnQ7Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5SZXBvc2l0b3J5Owo=</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text encoding="base64">Pns=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>Integer</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">d2l0aCBvcGVuKGlucHV0X2ZpbGUsICdyJykgYXMgZmluOgo=</text>
+      <register name="9" type="4">
+        <text>Book</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
