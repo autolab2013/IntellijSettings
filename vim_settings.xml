@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/AnnotaionBased/src/com/tutorialspoint/MainApp.java" timestamp="1447033354502">
+        <mark key="[" line="7" column="22" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/com/tutorialspoint/HelloWorld.java" timestamp="1447014087543">
         <mark key="[" line="9" column="19" />
         <mark key="]" line="13" column="15" />
@@ -66,6 +69,15 @@
         <mark key="^" line="61" column="11" />
         <mark key="." line="74" column="16" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/AnnotaionBased/src/com/tutorialspoint/HelloWorldConfig.java" timestamp="1447033338062">
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="14" column="3" />
+        <mark key="^" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/AnnotaionBased/src/com/tutorialspoint/HelloWorld.java" timestamp="1447033293003">
+        <mark key="[" line="5" column="25" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/TextEditor/src/com/tutorialspoint/TextEditor.java" timestamp="1447021565034">
         <mark key="[" line="5" column="25" />
       </file>
@@ -111,10 +123,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/README.md" timestamp="1446733577239">
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="67" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446702994299">
         <mark key="[" line="78" column="38" />
