@@ -21,6 +21,9 @@
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/Bean.xml" timestamp="1447013396674">
         <mark key="[" line="3" column="133" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/model/Customer.java" timestamp="1447099639191">
+        <mark key="[" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CustomEvents/src/com/tutorialspoint/MainApp.java" timestamp="1447036555184">
         <mark key="[" line="7" column="22" />
         <mark key="]" line="16" column="4" />
@@ -75,16 +78,28 @@
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/ExceptionHandle/src/com/tutorialspoint/Student.java" timestamp="1447097109012">
         <mark key="[" line="5" column="22" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/SpringJDBC/src/com/mkyong/customer/model/Customer.java" timestamp="1447099265354">
+        <mark key="[" line="13" column="42" />
+        <mark key="]" line="13" column="40" />
+        <mark key="^" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/EventHandle/src/com/tutorialspoint/HelloWorld.java" timestamp="1447034361536">
         <mark key="[" line="5" column="25" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/dao/impl/model/Customer.java" timestamp="1447099283532">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/README.md" timestamp="1446663499902">
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookService/src/main/java/com/dz275/BookRepository.java" timestamp="1447096222880">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/dao/JdbcCustomerDAO.java" timestamp="1447099768243">
+        <mark key="]" line="75" column="19" />
+        <mark key="^" line="75" column="19" />
+        <mark key="." line="75" column="19" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/SisterDanLVZ/LossLessCompProj/MyCode/MyDecompress.py" timestamp="1446702994299">
         <mark key="[" line="78" column="38" />
@@ -113,6 +128,18 @@
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/EventHandle/src/Beans.xml" timestamp="1447034741100">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/resources/database/Spring-Datasource.xml" timestamp="1447099958035">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="12" column="10" />
+        <mark key="^" line="12" column="10" />
+        <mark key="." line="12" column="10" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/dao/impl/Customer.java" timestamp="1447099353719">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/BookSystem/src/com/dz275/Category.java" timestamp="1447082477268">
         <mark key="[" line="5" column="23" />
       </file>
@@ -134,15 +161,11 @@
       <file name="/Python Console" timestamp="1446703035458">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/MainApp.java" timestamp="1447083588571">
-        <mark key="[" line="3" column="60" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookRepository.java" timestamp="1447084819168">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/dao/impl/JdbcCustomerDAO.java" timestamp="1447100209016">
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="9" />
+        <mark key="." line="14" column="9" />
+        <mark key="^" line="14" column="9" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/README.md" timestamp="1446518837655">
         <mark key="[" line="19" column="41" />
@@ -178,6 +201,12 @@
         <mark key="^" line="37" column="30" />
         <mark key="." line="37" column="30" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/common/App.java" timestamp="1447099028948">
+        <mark key="[" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/java/com/mkyong/customer/dao/impl/CustomerDAO.java" timestamp="1447099165436">
+        <mark key="[" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/AnnotaionBased/src/com/tutorialspoint/HelloWorld.java" timestamp="1447033293003">
         <mark key="[" line="5" column="25" />
       </file>
@@ -202,11 +231,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookService/src/main/java/com/dz275/Book.java" timestamp="1447095800754">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/SpringJDBC/src/com/mkyong/customer/dao/impl/JdbcCustomerDAO.java" timestamp="1447098651836" />
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CustomEvents/src/Beans.xml" timestamp="1447036601821">
         <mark key="[" line="3" column="133" />
         <mark key="]" line="8" column="58" />
@@ -216,13 +241,6 @@
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CollectionInjection/src/Beans.xml" timestamp="1447021890679">
         <mark key="[" line="3" column="133" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookService/src/main/java/com/dz275/Category.java" timestamp="1447095442781">
-        <mark key="'" line="34" column="2" />
-        <mark key="[" line="7" column="23" />
-        <mark key="]" line="8" column="6" />
-        <mark key="^" line="8" column="6" />
-        <mark key="." line="8" column="6" />
-      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/EventHandle/src/com/tutorialspoint/MainApp.java" timestamp="1447034562960">
         <mark key="[" line="7" column="22" />
       </file>
@@ -230,6 +248,18 @@
         <mark key="]" line="18" column="4" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/resources/Spring-Module.xml" timestamp="1447099928369">
+        <mark key="[" line="3" column="133" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/resources/customer/Spring-Customer.xml" timestamp="1447100217831">
+        <mark key="[" line="5" column="41" />
+        <mark key="]" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+        <mark key="^" line="5" column="50" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CollectionInjection/src/com/tutorialspoint/MainApp.java" timestamp="1447021840919">
         <mark key="[" line="7" column="22" />
@@ -248,6 +278,12 @@
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/SpringJDBC/src/com/mkyong/customer/dao/CustomerDAO.java" timestamp="1447098580022">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -303,10 +339,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>elloWeb</text>
+        <text>dataSource</text>
       </register>
       <register name="-" type="4">
-        <text>elloWeb</text>
+        <text>dataSource</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -315,31 +351,31 @@
         <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
       <register name="1" type="4">
-        <text>elloWeb</text>
+        <text>dataSource</text>
       </register>
       <register name="2" type="4">
-        <text>H</text>
+        <text>private</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5zcHIK</text>
+      <register name="3" type="4">
+        <text>impl</text>
       </register>
       <register name="4" type="4">
-        <text>mongodb;</text>
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNoLnFvcy5sb2diYWNrLmNvcmUuZGIuZGlhbGVjdC5NeVNRTERpYWxlY3Q7Cg==</text>
+      <register name="5" type="4">
+        <text>dao</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">bGNsYXNzIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGludGVyZmFjZSBCb29rUmVwb3NpdG9yeSBleHRlbmRzIE15U1FMRGlhbGVjdHsK</text>
+      <register name="7" type="4">
+        <text>elloWeb</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QERvY3VtZW50Cg==</text>
+      <register name="8" type="4">
+        <text>H</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHByaXZhdGUgaW50IGlkOwoKICAgIHByaXZhdGUgU3RyaW5nIG5hbWU7CgogICAgcHJpdmF0ZSBTdHJpbmcgZGVzY3JpcHRpb247</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IG9yZy5zcHIK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
@@ -366,6 +402,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
