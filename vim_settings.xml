@@ -49,6 +49,12 @@
       <file name="/a.dummy" timestamp="1446733788039">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookDTO.java" timestamp="1447088657302">
+        <mark key="[" line="7" column="28" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/Bean.xml" timestamp="1447013396674">
         <mark key="[" line="3" column="133" />
       </file>
@@ -63,6 +69,12 @@
         <mark key="]" line="11" column="84" />
         <mark key="^" line="11" column="84" />
         <mark key="." line="11" column="84" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/MySQLBookService.java" timestamp="1447088503517">
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="11" column="25" />
+        <mark key="^" line="11" column="25" />
+        <mark key="." line="11" column="25" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/TextEditor/src/Beans.xml" timestamp="1447021395469">
         <mark key="[" line="3" column="133" />
@@ -114,6 +126,12 @@
         <mark key="]" line="16" column="24" />
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookService.java" timestamp="1447088264144">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="10" column="5" />
+        <mark key="." line="10" column="5" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CustomEvents/src/com/tutorialspoint/CustomEvent.java" timestamp="1447036378475">
         <mark key="[" line="7" column="51" />
@@ -178,7 +196,7 @@
         <mark key="^" line="8" column="67" />
         <mark key="." line="8" column="67" />
       </file>
-      <file name="/fragment.java" timestamp="1447084039180">
+      <file name="/fragment.java" timestamp="1447088184491">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/LossLessCompProj/MyDecompress.py" timestamp="1446511502632">
