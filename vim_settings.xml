@@ -15,7 +15,7 @@
         <mark key="^" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1447105888886">
+      <file name="/a.dummy" timestamp="1447113865597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookSystem/src/com/dz275/BookDTO.java" timestamp="1447088657302">
@@ -36,6 +36,12 @@
         <mark key="^" line="16" column="4" />
         <mark key="." line="16" column="4" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/database/JdbcDAO.java" timestamp="1447116341448">
+        <mark key="[" line="78" column="19" />
+        <mark key="]" line="78" column="24" />
+        <mark key="^" line="78" column="24" />
+        <mark key="." line="78" column="24" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CustomEvents/src/com/tutorialspoint/CustomEventPublisher.java" timestamp="1447036811431">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="16" column="19" />
@@ -53,6 +59,12 @@
         <mark key="]" line="45" column="0" />
         <mark key="^" line="44" column="0" />
         <mark key="." line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/model/Book.java" timestamp="1447115053213">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="30" column="30" />
+        <mark key="^" line="30" column="30" />
+        <mark key="." line="30" column="30" />
       </file>
       <file name="/Dummy.css" timestamp="1446512191031">
         <mark key="[" line="0" column="0" />
@@ -358,13 +370,14 @@
       <jump line="36" column="7" filename="$USER_HOME$/NathanLRF/Github/LZWCompression/LossLessCompProj/MyCode/decompress.py" />
       <jump line="28" column="2" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookService/src/main/java/com/dz275/Category.java" />
       <jump line="24" column="33" filename="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/ExceptionHandle/src/com/tutorialspoint/StudentController.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/database/JdbcDAO.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>book</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>book</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -372,32 +385,32 @@
       <register name="0" type="4">
         <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="1" type="4">
+        <text>book</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIEJvb2sgewo=</text>
+      <register name="2" type="4">
+        <text>setInt</text>
       </register>
       <register name="3" type="4">
-        <text>message</text>
+        <text>bid</text>
       </register>
-      <register name="4" type="4">
-        <text>dataSource</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>private</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBBVVRIT1I6IAo=</text>
       </register>
-      <register name="6" type="4">
-        <text>impl</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKGZpZWxkKSB7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text>query</text>
       </register>
       <register name="8" type="4">
-        <text>dao</text>
+        <text>type</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bGNsYXNzIA==</text>
+        <text encoding="base64">ZHdpbnQg</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
