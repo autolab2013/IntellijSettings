@@ -131,4 +131,7 @@
       </map>
     </option>
   </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
 </application>
