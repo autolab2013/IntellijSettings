@@ -77,6 +77,7 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/SpringBootPlayGround/src/main/java/obs/web/ObsController.java" timestamp="1447173590785" />
       <file name="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/dz275/models/BookCategory.java" timestamp="1447127679493">
         <mark key="[" line="5" column="27" />
         <mark key="]" line="24" column="0" />
@@ -95,11 +96,6 @@
         <mark key="]" line="8" column="3" />
         <mark key="^" line="8" column="3" />
         <mark key="." line="8" column="3" />
-      </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/test/java/com/dz275/todo/TodoDTOBuilder.java" timestamp="1447153260122">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="36" />
-        <mark key="." line="31" column="36" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/JDBCExample/src/main/resources/database/Spring-Datasource.xml" timestamp="1447099958035">
         <mark key="[" line="4" column="0" />
@@ -359,11 +355,6 @@
         <mark key="]" line="8" column="58" />
         <mark key="^" line="8" column="58" />
         <mark key="." line="8" column="58" />
-      </file>
-      <file name="$USER_HOME$/Desktop/java-advent-2014-master/src/main/java/com/javaadvent/bootrest/todo/TodoDTO.java" timestamp="1447128121810">
-        <mark key="[" line="19" column="13" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/category/MongoDBBookService.java" timestamp="1447155515134">
         <mark key="[" line="16" column="42" />
