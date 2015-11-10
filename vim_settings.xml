@@ -159,12 +159,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" timestamp="1447160622580">
-        <mark key="'" line="31" column="27" />
-        <mark key="[" line="110" column="41" />
-        <mark key="]" line="110" column="49" />
-        <mark key="." line="110" column="49" />
-        <mark key="^" line="110" column="49" />
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" timestamp="1447161550040">
+        <mark key="'" line="146" column="4" />
+        <mark key="[" line="131" column="43" />
+        <mark key="]" line="131" column="43" />
+        <mark key="." line="131" column="43" />
+        <mark key="^" line="131" column="82" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDbTodoService.java" timestamp="1447151184790" />
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/error/FieldErrorDTO.java" timestamp="1447149039244" />
@@ -462,13 +462,14 @@
       <jump line="30" column="27" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" />
       <jump line="110" column="9" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/pom.xml" />
       <jump line="67" column="51" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/category/Category.java" />
+      <jump line="146" column="4" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;&quot;);</text>
+        <text>findBookByIdOrByisbnOrBytitleOrByauthor</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;);</text>
+        <text>findBookByIdOrByisbnOrBytitleOrByauthor</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -477,31 +478,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVG9kb0FwcENvbmZpZy5jbGFzcywgYXJncyk7CiAgICB9Cn0=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;&quot;);</text>
+        <text>findBookByIdOrByisbnOrBytitleOrByauthor</text>
       </register>
       <register name="2" type="4">
-        <text>id</text>
+        <text>findBookByIdOrByIsbnOrByTitleOrByAuthor</text>
       </register>
       <register name="3" type="4">
-        <text>id</text>
+        <text>&quot;&quot;);</text>
       </register>
       <register name="4" type="4">
-        <text>did</text>
+        <text>id</text>
       </register>
       <register name="5" type="4">
         <text>id</text>
       </register>
       <register name="6" type="4">
-        <text>id</text>
+        <text>did</text>
       </register>
       <register name="7" type="4">
         <text>id</text>
       </register>
       <register name="8" type="4">
-        <text>Isbn</text>
+        <text>id</text>
       </register>
       <register name="9" type="4">
-        <text>isbn</text>
+        <text>id</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
