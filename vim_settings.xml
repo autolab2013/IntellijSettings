@@ -77,6 +77,7 @@
       <file name="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/dz275/error/ValidationErrorDTO.java" timestamp="1447127429271">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/javaadvent/bootrest/todo/Book.java" timestamp="1447130628408" />
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/HelloWorld/src/Beans.xml" timestamp="1447014267182">
         <mark key="[" line="5" column="4" />
         <mark key="]" line="7" column="10" />
@@ -225,6 +226,11 @@
         <mark key="^" line="40" column="44" />
         <mark key="." line="46" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/javaadvent/bootrest/todo/BookDTO.java" timestamp="1447130923290">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/dz275/service/BookCatalogService.java" timestamp="1447129542417">
         <mark key="'" line="61" column="0" />
         <mark key="[" line="62" column="0" />
@@ -372,8 +378,8 @@
       <jump line="117" column="0" filename="$USER_HOME$/Desktop/BookCatalog/src/main/java/com/dz275/controller/MongoDBService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">VG9kbyA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uZHoyNzUubW9kZWxzOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">VG9kbyA=</text>
@@ -384,29 +390,29 @@
       <register name="0" type="4">
         <text encoding="base64">PGJlYW4gaWQ9ImhlbGxvV29ybGQiIGNsYXNzPSJjb20udHV0b3JpYWxzcG9pbnQuSGVsbG9Xb3JsZCI+CiAgICAgICAgPHByb3BlcnR5IG5hbWU9Im1lc3NhZ2UiIHZhbHVlPSJIZWxsbyBXb3JsZCEiLz4KICAgIDwvYmVhbj4=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">VG9kbyA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20uZHoyNzUubW9kZWxzOwo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">VG9kb0RUTyA=</text>
-      </register>
-      <register name="3" type="4">
         <text encoding="base64">VG9kbyA=</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">VG9kb0RUTyA=</text>
+      </register>
       <register name="4" type="4">
-        <text>Todo persisted = Book.getBuilder()</text>
+        <text encoding="base64">VG9kbyA=</text>
       </register>
       <register name="5" type="4">
-        <text>Todo</text>
+        <text>Todo persisted = Book.getBuilder()</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">VG9kb0RUTyA=</text>
+        <text>Todo</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">VG9kb0RUTyA=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">VG9kb1JlcG9zaXRvcnkg</text>
+        <text encoding="base64">VG9kb0RUTyA=</text>
       </register>
       <register name="9" type="4">
         <text encoding="base64">VG9kb1JlcG9zaXRvcnkg</text>
