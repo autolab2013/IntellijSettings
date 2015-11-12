@@ -1,0 +1,56 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/SpringBootPlayGround/src/main/java/obs/web/ObsController.java" timestamp="1447258737848">
+        <mark key="[" line="120" column="8" />
+        <mark key="]" line="122" column="104" />
+        <mark key="^" line="44" column="19" />
+        <mark key="." line="44" column="19" />
+      </file>
+    </filemarks>
+    <jumps />
+    <registers>
+      <register name="0" type="4">
+        <text>String sql_insert_category = &quot;insert into category (name,description) VALUES (?,?)&quot;;
+
+        String sql_insert_category_book = &quot;insert into book_category (book_id,category_id) VALUES (?,?)&quot;;</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>String sql_insert_category = &quot;insert into category (name,description) VALUES (?,?)&quot;;
+
+        String sql_insert_category_book = &quot;insert into book_category (book_id,category_id) VALUES (?,?)&quot;;</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
