@@ -266,11 +266,11 @@
       <file name="$USER_HOME$/Desktop/java-advent-2014-master/src/main/java/com/javaadvent/bootrest/todo/TodoNotFoundException.java" timestamp="1447129419595" />
       <file name="$USER_HOME$/Desktop/java-advent-2014-master/src/main/java/com/javaadvent/bootrest/todo/Todo.java" timestamp="1447125588775" />
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/Todo.java" timestamp="1447149448283" />
-      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/Book.java" timestamp="1447181210913">
-        <mark key="[" line="62" column="11" />
-        <mark key="]" line="62" column="11" />
+      <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/Book.java" timestamp="1447467580357">
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="24" />
         <mark key="^" line="37" column="28" />
-        <mark key="." line="62" column="11" />
+        <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/BookRepository.java" timestamp="1447165463320">
         <mark key="[" line="8" column="72" />
@@ -470,11 +470,11 @@
       <jump line="146" column="4" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzLnNldFN0cmluZygyLCByZXF1ZXN0Qm9keUFycmF5LmdldFN0cmluZygiZGVzY3JpcHRpb24iKSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBz</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -482,32 +482,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVG9kb0FwcENvbmZpZy5jbGFzcywgYXJncyk7CiAgICB9Cn0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzLnNldFN0cmluZygyLCByZXF1ZXN0Qm9keUFycmF5LmdldFN0cmluZygiZGVzY3JpcHRpb24iKSk7Cgo=</text>
+      <register name="1" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHBz</text>
+        <text>;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBzLnNldFN0cmluZygyLCByZXF1ZXN0Qm9keUFycmF5LmdldFN0cmluZygiZGVzY3JpcHRpb24iKSk7Cgo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aW50IA==</text>
+        <text encoding="base64">IHBz</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aW50IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
         <text encoding="base64">aW50IA==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bnQg</text>
+        <text encoding="base64">aW50IA==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
