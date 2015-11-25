@@ -106,6 +106,9 @@
         <mark key="." line="16" column="24" />
         <mark key="^" line="16" column="24" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/ToBeACoder/PolishNotationEvaluation/src/SolutionTest.java" timestamp="1448464539722">
+        <mark key="[" line="10" column="45" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/Spring/CustomEvents/src/com/tutorialspoint/CustomEvent.java" timestamp="1447036378475">
         <mark key="[" line="7" column="51" />
         <mark key="]" line="7" column="48" />
@@ -354,6 +357,13 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
+      <file name="$USER_HOME$/NathanLRF/Github/ToBeACoder/PolishNotationEvaluation/src/Solution.java" timestamp="1448465693769">
+        <mark key="'" line="16" column="33" />
+        <mark key="[" line="37" column="38" />
+        <mark key="]" line="40" column="25" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="53" />
+      </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/category/CategoryDTO.java" timestamp="1447155234754">
         <mark key="e" line="47" column="23" />
         <mark key="[" line="52" column="21" />
@@ -397,9 +407,6 @@
         <mark key="]" line="8" column="67" />
         <mark key="^" line="8" column="67" />
         <mark key="." line="8" column="67" />
-      </file>
-      <file name="/fragment.java" timestamp="1447968066115">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/NathanLRF/Github/DataCompression/SpringTutorial/SpringJDBC/src/com/mkyong/customer/dao/CustomerDAO.java" timestamp="1447098580022">
         <mark key="[" line="7" column="7" />
@@ -470,13 +477,14 @@
       <jump line="110" column="9" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/pom.xml" />
       <jump line="67" column="51" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/category/Category.java" />
       <jump line="146" column="4" filename="$USER_HOME$/NathanLRF/Github/DataCompression/ConferCodeAssignment/BookCatalog/src/main/java/com/dz275/book/MongoDBBookService.java" />
+      <jump line="16" column="33" filename="$USER_HOME$/NathanLRF/Github/ToBeACoder/PolishNotationEvaluation/src/Solution.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
+      <register name="&quot;" type="4">
+        <text>digit</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>digit</text>
       </register>
       <register name="/" type="4">
         <text>extend</text>
@@ -484,32 +492,32 @@
       <register name="0" type="4">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBTcHJpbmdBcHBsaWNhdGlvbi5ydW4oVG9kb0FwcENvbmZpZy5jbGFzcywgYXJncyk7CiAgICB9Cn0=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
+      <register name="1" type="4">
+        <text>digit</text>
       </register>
-      <register name="2" type="4">
-        <text>null</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0ID0gMDsK</text>
       </register>
-      <register name="3" type="4">
-        <text>];</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY3VyciA9ICIiOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>MEM_SIZE</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
-      <register name="5" type="4">
-        <text>[</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>int</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bmV3IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoQ2hhcmFjdGVyLmlzRGlnaXQoY2gpKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgaW50IE1FTV9TSVpFID0gMTAyNDsK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaW5kZXggPSAwOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>Bu</text>
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
